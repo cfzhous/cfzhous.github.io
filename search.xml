@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>20191126</title>
+      <link href="/2019/11/record/2019-11-26/"/>
+      <url>/2019/11/record/2019-11-26/</url>
+      
+        <content type="html"><![CDATA[<h1 id="记录"><a href="#记录" class="headerlink" title="记录"></a>记录</h1><ul><li>20:36:34   做个计划</li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日常记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 日常记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>20191113</title>
+      <link href="/2019/11/record/2019-11-13/"/>
+      <url>/2019/11/record/2019-11-13/</url>
+      
+        <content type="html"><![CDATA[<h1 id="一天都是我的"><a href="#一天都是我的" class="headerlink" title="一天都是我的"></a>一天都是我的</h1><ul><li>12:49:44   早睡早起，一整天都是自己的</li><li>20:54:59   要跑步去吗?</li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日常记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 日常记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>有趣的网站</title>
+      <link href="/2019/11/2019/11/ge-ren-wang-zhan/"/>
+      <url>/2019/11/2019/11/ge-ren-wang-zhan/</url>
+      
+        <content type="html"><![CDATA[<h1 id="有趣的网站"><a href="#有趣的网站" class="headerlink" title="有趣的网站"></a>有趣的网站</h1><p><a href="https://cfzhous.blogspot.com/" target="_blank" rel="noopener">blogger</a></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 工程与应用科学 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 计算机 </tag>
+            
+            <tag> 杂 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>协作开发工具</title>
+      <link href="/2019/11/2019/11/xie-zuo-kai-fa-gong-ju/"/>
+      <url>/2019/11/2019/11/xie-zuo-kai-fa-gong-ju/</url>
+      
+        <content type="html"><![CDATA[<h1 id="协作开发工具"><a href="#协作开发工具" class="headerlink" title="协作开发工具"></a>协作开发工具</h1><p><a href="https://www.leangoo.com/" target="_blank" rel="noopener">leangoo</a>   基于Scrum进行创新和管理，在线个人版提供了敏捷项目管理、基于看板的团队协作的基本功能<br><a href="https://travis-ci.org" target="_blank" rel="noopener">travis-ci</a>    提供的是持续集成服务（Continuous Integration，简称 CI）。它绑定 Github 上面的项目，只要有新的代码，就会自动抓取。然后，提供一个运行环境，执行测试，完成构建，还能部署到服务器</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 工程与应用科学 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 计算机 </tag>
+            
+            <tag> 器 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>建站工具</title>
+      <link href="/2019/11/2019/11/jian-zhan-gong-ju/"/>
+      <url>/2019/11/2019/11/jian-zhan-gong-ju/</url>
+      
+        <content type="html"><![CDATA[<h1 id="建站工具"><a href="#建站工具" class="headerlink" title="建站工具"></a>建站工具</h1><p><a href="https://www.showdoc.cc/mytheme?page_id=2779989134071820" target="_blank" rel="noopener">苹果CMS V10</a>    视频资源网站搭建手册<br><a href="https://www.google.com/adsense/" target="_blank" rel="noopener">谷歌广告</a><br><a href="https://ps.gaoding.com/" target="_blank" rel="noopener">在线PS</a><br><a href="https://www.vultr.com/" target="_blank" rel="noopener">vultr</a><br><a href="https://www.dnspod.cn/" target="_blank" rel="noopener">dnspod</a><br><a href="https://tool.tanpok.com/#/ImgCompress" target="_blank" rel="noopener">图片压缩</a><br><a href="https://analytics.google.com/" target="_blank" rel="noopener">谷歌分析</a><br><a href="https://gscan.ghost.org/" target="_blank" rel="noopener">ghost主题扫描</a><br><a href="https://dp2px.com/2018/10/24/hexo-qiniu-img/" target="_blank" rel="noopener">Hexo博客七牛图床最优做法</a><br><a href="https://dp2px.com/2018/10/28/python-hexo-tool/" target="_blank" rel="noopener">Python做Hexo博客编辑和发布工具</a></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 工程与应用科学 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 计算机 </tag>
+            
+            <tag> 法 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>技术教程</title>
+      <link href="/2019/11/2019/11/ji-zhu-jiao-cheng/"/>
+      <url>/2019/11/2019/11/ji-zhu-jiao-cheng/</url>
+      
+        <content type="html"><![CDATA[<h1 id="技术教程"><a href="#技术教程" class="headerlink" title="技术教程"></a>技术教程</h1><p><a href="https://darylliu.github.io/archives/6a1f6623.html" target="_blank" rel="noopener">hexo个人next主题博客接入谷歌广告</a><br><a href="https://blog.csdn.net/u010427666/article/details/84943623" target="_blank" rel="noopener">centos7利用docker 快速搭建苹果CMS站点</a><br><a href="http://www.irober.com/archives/276" target="_blank" rel="noopener">苹果cmsV10模板主题 仿挖片网蓝色简约电影风格</a><br><a href="https://www.51zixueba.com/wzjs/134.html" target="_blank" rel="noopener">宝塔面板安装苹果CMS遇到fileinfo模块不支持解决办法</a><br><a href="https://segmentfault.com/markdown#articleHeader8" target="_blank" rel="noopener">Markdown 编辑器语法指南</a><br><a href="https://zhuanlan.zhihu.com/p/30450761" target="_blank" rel="noopener">可能是全网最基础的创建telegram bot的教程</a><br><a href="https://xiaozhou.net/introduction-of-cn2-and-cn2-vps-2017-12-11.html" target="_blank" rel="noopener">CN2的那些事-CN2线路与VPS服务商介绍</a></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 工程与应用科学 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 计算机 </tag>
+            
+            <tag> 法 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>有趣的网站</title>
+      <link href="/2019/11/2019/11/you-qu-de-wang-zhan/"/>
+      <url>/2019/11/2019/11/you-qu-de-wang-zhan/</url>
+      
+        <content type="html"><![CDATA[<h1 id="有趣的网站"><a href="#有趣的网站" class="headerlink" title="有趣的网站"></a>有趣的网站</h1><p><a href="https://stackexchange.com/" target="_blank" rel="noopener">StackExchange</a><br>Stack Exchange是一系列问答网站，每一个网站包含不同领域的问题。这些网站参考Stack Overflow，一个关于程序设计的问答网站，也是Stack Exchange的第一个成员。如同Stack Overflow，这些网站使用声望奖励系统，用户对问题和答案进行投票，并影响用户声望。声望系统使这些网站可以自我控制。</p><p><a href="http://www.ruanyifeng.com/" target="_blank" rel="noopener">阮一峰的个人网站</a><br><a href="https://yixi.tv/" target="_blank" rel="noopener">一席</a></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资源 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网站 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>20191111</title>
+      <link href="/2019/11/record/2019-11-11/"/>
+      <url>/2019/11/record/2019-11-11/</url>
+      
+        <content type="html"><![CDATA[<h1 id="调试"><a href="#调试" class="headerlink" title="调试"></a>调试</h1><ul><li>10:55:22   可以用了吗?root      9803  0.5  1.9 280060 19720 pts/0    Sl   10:53   0:00 /usr/bin/python3 -u /root/tbot/tbot.py</li><li>Test</li><li>Test</li><li>test</li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日常记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 日常记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>在线学习网站汇总</title>
+      <link href="/2019/11/2019/11/xue-xi-wang-zhan-hui-zong/"/>
+      <url>/2019/11/2019/11/xue-xi-wang-zhan-hui-zong/</url>
+      
+        <content type="html"><![CDATA[<h1 id="关于学习进步的网站"><a href="#关于学习进步的网站" class="headerlink" title="关于学习进步的网站"></a>关于学习进步的网站</h1><h1 id="技术论坛"><a href="#技术论坛" class="headerlink" title="技术论坛"></a>技术论坛</h1><p><a href="https://www.amobbs.com/" target="_blank" rel="noopener">阿莫电子论坛</a>   电子类，嵌入式类技术分享论坛，二手电脑<br><a href="http://bbs.21ic.com/" target="_blank" rel="noopener">中国电子网技术论坛</a><br><a href="https://www.52pojie.cn/" target="_blank" rel="noopener">我爱破解论坛</a><br><a href="https://www.kanxue.com/" target="_blank" rel="noopener">看雪论坛</a></p><h1 id="技术博客"><a href="#技术博客" class="headerlink" title="技术博客"></a>技术博客</h1><p><a href="https://www.cnbanwagong.com/" target="_blank" rel="noopener">搬瓦工中文网</a><br><a href="https://mnya.tw/" target="_blank" rel="noopener">萌芽综合天地</a></p><h1 id="技术资源"><a href="#技术资源" class="headerlink" title="技术资源"></a>技术资源</h1><p><a href="https://securelist.com/" target="_blank" rel="noopener">卡巴斯基</a>   俄罗斯的一家专业从事反病毒研究和反病毒软件开发的公司</p><h1 id="技术工具"><a href="#技术工具" class="headerlink" title="技术工具"></a>技术工具</h1><p><a href="https://hub.docker.com/" target="_blank" rel="noopener">docker hub</a><br><a href="https://cloud.docker.com/" target="_blank" rel="noopener">docker cloud</a><br><a href="https://search.google.com/structured-data/testing-tool" target="_blank" rel="noopener">google结构化数据测试工具</a>   网站内容结构分析<br><a href="https://www.soinside.com/" target="_blank" rel="noopener">SO中文参考</a>  StackOverflow中文参考<br><a href="https://segmentfault.com/" target="_blank" rel="noopener">SegmentFault</a>  开发者学习技能、解决问题<br><a href="https://www.oschina.net/" target="_blank" rel="noopener">oschina</a></p><h1 id="ASMR"><a href="#ASMR" class="headerlink" title="ASMR"></a>ASMR</h1><p><a href="https://qiangweijun.cf/" target="_blank" rel="noopener">蔷薇Jun</a></p><h1 id="在线工具"><a href="#在线工具" class="headerlink" title="在线工具"></a>在线工具</h1><p><a href="http://china.tg/" target="_blank" rel="noopener">http://china.tg/</a></p><h1 id="在线托管"><a href="#在线托管" class="headerlink" title="在线托管"></a>在线托管</h1><p><a href="https://www.heroku.com/" target="_blank" rel="noopener">https://www.heroku.com/</a><br><a href="https://www.pythonanywhere.com/" target="_blank" rel="noopener">https://www.pythonanywhere.com/</a></p><h1 id="其他工具"><a href="#其他工具" class="headerlink" title="其他工具"></a>其他工具</h1><p><a href="https://pdos.csail.mit.edu/archive/scigen/#examples" target="_blank" rel="noopener">SCIpher计算机科学研究论文随机生成</a><br><a href="https://pdos.csail.mit.edu/archive/scigen/scipher.html" target="_blank" rel="noopener">SCIpher-学术消息编码器</a>     可以将消息加密到学术论文中<br><a href="https://zs.symbolab.com/graphing-calculator" target="_blank" rel="noopener">Symbolab</a>   数学公式作图<br><a href="https://www.500d.me/" target="_blank" rel="noopener">五百丁</a>   在线简历<br><a href="https://www.autopiano.cn/" target="_blank" rel="noopener">自由钢琴</a>   在线钢琴<br><a href="https://nmsl.shadiao.app/" target="_blank" rel="noopener">骂人宝典</a>   骂人不吐脏字<br><a href="http://card-generator.com/" target="_blank" rel="noopener">信用卡生成器</a><br><a href="http://voice.xunjiepdf.com/" target="_blank" rel="noopener">迅捷语音服务</a>  语音转文字，文字转语言<br><a href="http://www.geektomato.com/" target="_blank" rel="noopener">极客番茄</a>   每天一篇极客英文<br><a href="https://what-if.xkcd.com/" target="_blank" rel="noopener">what if</a>    好玩的故事<br><a href="https://maildrop.cc/" target="_blank" rel="noopener">maildrop</a> 快速的一次性电子邮件地址<br><a href="https://www.spoofbox.com/" target="_blank" rel="noopener">spoofbox</a>  虚拟身份信息,恶搞电话<br><a href="https://www.attackmen.com/" target="_blank" rel="noopener">ssr</a> 免费SSR节点</p><h1 id="学习工具"><a href="#学习工具" class="headerlink" title="学习工具"></a>学习工具</h1><p><a href="http://immersivemath.com/" target="_blank" rel="noopener">线代</a><br><a href="https://leetcode-cn.com/" target="_blank" rel="noopener">leetcode</a><br><a href="https://www.w3school.com.cn/" target="_blank" rel="noopener">w3school</a></p><h1 id="视频资源采集"><a href="#视频资源采集" class="headerlink" title="视频资源采集"></a>视频资源采集</h1><p><a href="http://www.538ck.com/" target="_blank" rel="noopener">538CK</a><br><a href="http://www.jisudhw.com/" target="_blank" rel="noopener">OK资源网</a></p><h1 id="综合资源网址"><a href="#综合资源网址" class="headerlink" title="综合资源网址"></a>综合资源网址</h1><p><a href="http://qianfangzy.com/" target="_blank" rel="noopener">往前方</a><br><a href="https://shenzjd.com/" target="_blank" rel="noopener">神族九帝</a></p><h1 id="学习资源搜索下载"><a href="#学习资源搜索下载" class="headerlink" title="学习资源搜索下载"></a>学习资源搜索下载</h1><p><a href="http://www.hejizhan.com/" target="_blank" rel="noopener">万千合集站</a>     学习类如PDF书籍资源搜索下载<br><a href="https://www.wugongqi.cn/" target="_blank" rel="noopener">标准之家</a>    建筑类<br><a href="https://ctext.org/" target="_blank" rel="noopener">中国哲学书电子化计划</a><br><a href="https://www.shuge.org/" target="_blank" rel="noopener">书格</a>    在线古籍图书馆<br><a href="http://gj.zdic.net/" target="_blank" rel="noopener">汉典古籍</a></p><h1 id="协作开发"><a href="#协作开发" class="headerlink" title="协作开发"></a>协作开发</h1><p><a href="https://gitee.com/" target="_blank" rel="noopener">码云</a></p><h1 id="在线画图"><a href="#在线画图" class="headerlink" title="在线画图"></a>在线画图</h1><p><a href="https://www.processon.com/" target="_blank" rel="noopener">ProcessOn</a>     在线画流程图，免费版限制,可以应急使用</p><h1 id="无版权图片"><a href="#无版权图片" class="headerlink" title="无版权图片"></a>无版权图片</h1><p><a href="https://wallhaven.cc/" target="_blank" rel="noopener">https://wallhaven.cc/</a></p><h1 id="量化交易"><a href="#量化交易" class="headerlink" title="量化交易"></a>量化交易</h1><p><a href="https://www.ricequant.com/" target="_blank" rel="noopener">米筐</a><br><a href="http://www.liangq.com/" target="_blank" rel="noopener">量Q</a><br><a href="http://www.tradeblazer.net/" target="_blank" rel="noopener">开拓者</a></p><h1 id="在线学习"><a href="#在线学习" class="headerlink" title="在线学习"></a>在线学习</h1><p><a href="https://www.edx.org/" target="_blank" rel="noopener">edX</a>   由麻省理工学院和哈佛大学创建的大规模开放在线课堂平台</p><h1 id="教程类"><a href="#教程类" class="headerlink" title="教程类"></a>教程类</h1><p><a href="https://zh.wikihow.com/" target="_blank" rel="noopener">wikiHow</a>    一个能让所有人学做任何事的平台,生活指南类文章<br><a href="https://riptutorial.com/" target="_blank" rel="noopener">ripturorial</a>   技术教程<br><a href="http://www.tastones.com/" target="_blank" rel="noopener">他山教程</a>    自学教程</p><h1 id="FTP搜索引擎"><a href="#FTP搜索引擎" class="headerlink" title="FTP搜索引擎"></a>FTP搜索引擎</h1><p> FTP搜索引擎的功能是搜集匿名FTP服务器提供的目录列表以及向用户提供文件信息的查询服务。由于FTP搜索引擎专门针对各种文件，因而相对WWW搜索引擎，寻找软件、图像、电影和音乐等文件时，使用FTP搜索引擎更加便捷。<br> <a href="http://www.filesearching.com/" target="_blank" rel="noopener">http://www.filesearching.com/</a></p><h1 id="虚拟货币交易"><a href="#虚拟货币交易" class="headerlink" title="虚拟货币交易"></a>虚拟货币交易</h1><p><a href="https://www.coinbase.com/" target="_blank" rel="noopener">coinbase</a>  虚拟货币交易所</p><h1 id="论文检测"><a href="#论文检测" class="headerlink" title="论文检测"></a>论文检测</h1><p><a href="http://vpcs.cqvip.com/" target="_blank" rel="noopener">维普论文检测系统</a> 论文检测</p><p><a href="https://www.vmovier.com/" target="_blank" rel="noopener">场库</a>  优质短视频<br><a href="http://www.zmz2019.com/" target="_blank" rel="noopener">字幕组</a></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资源 </category>
+          
+          <category> 学习网站 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 学习网站 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>免费在线影视网站</title>
+      <link href="/2019/11/2019/11/mian-fei-zai-xian-ying-shi-wang-zhan/"/>
+      <url>/2019/11/2019/11/mian-fei-zai-xian-ying-shi-wang-zhan/</url>
+      
+        <content type="html"><![CDATA[<h1 id="免费在线影视网站"><a href="#免费在线影视网站" class="headerlink" title="免费在线影视网站"></a>免费在线影视网站</h1><h2 id="个人推荐"><a href="#个人推荐" class="headerlink" title="个人推荐"></a>个人推荐</h2><table><thead><tr><th>名称</th><th>个人使用感受</th></tr></thead><tbody><tr><td><a href="https://www.dililitv.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">嘀哩哩</a></td><td>网站很整洁，观看速度也不错，很综合</td></tr><tr><td><a href="http://www.952780.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">碟影视界</a></td><td>影视评论做得很不错，看超清，上蝶影</td></tr><tr><td><a href="https://www.nfmovies.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">奈菲影视</a></td><td>很有个性的站长，网站被挂马，网站变成了宣战公告~</td></tr><tr><td><a href="http://ddrk.me/?form=blog.cfzhous.com" target="_blank" rel="noopener">低端影视</a></td><td>站长推荐的影视不错，影视荒的可以参考站长推荐的</td></tr><tr><td><a href="https://91mjw.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">91 美剧网</a></td><td>美剧观看个人首选</td></tr></tbody></table><h2 id="综合类影视"><a href="#综合类影视" class="headerlink" title="综合类影视"></a>综合类影视</h2><table><thead><tr><th>名称</th><th>简介</th></tr></thead><tbody><tr><td><a href="https://www.dililitv.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">嘀哩哩</a></td><td>网站很整洁，观看速度也不错，很综合</td></tr><tr><td><a href="http://www.952780.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">碟影视界</a></td><td>影视评论做得很不错，看超清，上蝶影</td></tr><tr><td><a href="https://www.nfmovies.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">奈菲影视</a></td><td>很有个性的站长，网站被挂马，网站变成了宣战公告~</td></tr><tr><td><a href="http://ddrk.me/?form=blog.cfzhous.com" target="_blank" rel="noopener">低端影视</a></td><td>站长推荐的影视不错，影视荒的可以参考站长推荐的</td></tr><tr><td><a href="https://www.wanmeikk.me/?form=blog.cfzhous.com" target="_blank" rel="noopener">完美看看</a></td><td>免费在线，电影电视剧</td></tr><tr><td><a href="http://www.5aikp.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">吾爱看影视</a></td><td>免费在线电影，视频播放速度快</td></tr><tr><td><a href="https://www.zxzjs.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">在线之家</a></td><td>免费电影，播放速度快</td></tr><tr><td><a href="http://m.pianba.tv/?form=blog.cfzhous.com" target="_blank" rel="noopener">片吧</a></td><td>免费视频，最新免费在线视频</td></tr><tr><td><a href="https://www.kankanwu.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">看看屋</a></td><td>影视视频，免费影视大全</td></tr><tr><td><a href="https://v.jlszyy.org/?form=blog.cfzhous.com" target="_blank" rel="noopener">达达兔</a></td><td>资源丰富的免费在线电视剧</td></tr><tr><td><a href="https://www.tcmove.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">太初电影</a></td><td>免费最新电影，最新电视剧</td></tr><tr><td><a href="https://www.wukongshipin.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">悟空视频</a></td><td>最新电影，最新电视剧免费看</td></tr><tr><td><a href="https://www.wandouys.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">豌豆影视</a></td><td>在线电视，最新影视在线</td></tr><tr><td><a href="https://www.adcmove.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">ADC 电影网</a></td><td>免费最新电影，更新快</td></tr><tr><td><a href="https://www.ouximov.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">欧西电影</a></td><td>免费影视，最新热门电影在线</td></tr><tr><td><a href="https://www.77kpp.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">琪琪看片</a></td><td>手机影视，最新电影电视剧</td></tr><tr><td><a href="https://www.ysuzy.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">盐酥鸡 </a></td><td>在线综艺，最新电影电视剧</td></tr></tbody></table><h2 id="日韩"><a href="#日韩" class="headerlink" title="日韩"></a>日韩</h2><table><thead><tr><th>名称</th><th>简介</th></tr></thead><tbody><tr><td><a href="https://www.rijutv.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">日剧 tv</a></td><td>日剧资讯及日剧在线</td></tr><tr><td><a href="https://www.reboriju.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">热播日剧</a></td><td>日剧在线，资源多</td></tr><tr><td><a href="https://www.snailok.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">蜗牛视频</a></td><td>韩剧资源多</td></tr><tr><td><a href="https://www.hanfan.cc/?form=blog.cfzhous.com" target="_blank" rel="noopener">韩饭网</a></td><td>韩剧资讯及百度网盘下载</td></tr><tr><td><a href="http://www.hjzlg.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">韩粉乐园</a></td><td>韩剧资讯及韩剧在线</td></tr><tr><td><a href="http://www.duduhanju.net/?form=blog.cfzhous.com" target="_blank" rel="noopener">嘟嘟韩剧</a></td><td>韩剧在线观看</td></tr><tr><td><a href="http://hanju.koudaibaobao.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">韩剧 tv</a></td><td>手机看韩剧必备 app</td></tr></tbody></table><h2 id="欧美"><a href="#欧美" class="headerlink" title="欧美"></a>欧美</h2><table><thead><tr><th>名称</th><th>简介</th></tr></thead><tbody><tr><td><a href="http://www.novipnoad.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">NO 视频</a></td><td>欧美、日韩、港台电视剧电影</td></tr><tr><td><a href="https://www.dililitv.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">嘀哩哩</a></td><td>欧美、日韩最新电影电视剧</td></tr><tr><td><a href="https://www.nfmovies.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">奈菲影视</a></td><td>欧美、日韩、港台电影电视剧</td></tr><tr><td><a href="https://cn.gimy.tv/?form=blog.cfzhous.com" target="_blank" rel="noopener">剧迷</a></td><td>欧美、日韩、港台电视剧电影</td></tr><tr><td><a href="https://91mjw.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">91 美剧网</a></td><td>在线美剧，更新快</td></tr><tr><td><a href="http://www.meijuniao.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">美剧鸟  </a></td><td>主打美剧，资源多</td></tr></tbody></table><h2 id="动漫"><a href="#动漫" class="headerlink" title="动漫"></a>动漫</h2><table><thead><tr><th>名称</th><th>简介</th></tr></thead><tbody><tr><td><a href="http://www.zzzfun.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">zzzfun</a></td><td>动漫在线更新快</td></tr><tr><td><a href="http://www.qimiqimi.co/?form=blog.cfzhous.com" target="_blank" rel="noopener">奇米奇米</a></td><td>新番动漫在线看</td></tr><tr><td><a href="http://www.dmd8.com/?form=blog.cfzhous.com" target="_blank" rel="noopener">动漫岛</a></td><td>新番连载大量完结日漫、国漫</td></tr><tr><td><a href="http://www.yxdm.tv/?form=blog.cfzhous.com" target="_blank" rel="noopener">怡宣动漫</a></td><td>新番连载日漫、国漫</td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资源 </category>
+          
+          <category> 影视 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 在线影视 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>20191109</title>
+      <link href="/2019/11/record/2019-11-09/"/>
+      <url>/2019/11/record/2019-11-09/</url>
+      
+        <content type="html"><![CDATA[<h1 id="我想要学习"><a href="#我想要学习" class="headerlink" title="我想要学习"></a>我想要学习</h1><ul><li>15:09:33   充分利用我想要的力量</li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日常记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 日常记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>20191107</title>
+      <link href="/2019/11/record/2019-11-07/"/>
+      <url>/2019/11/record/2019-11-07/</url>
+      
+        <content type="html"><![CDATA[<h1 id="telegram-bot"><a href="#telegram-bot" class="headerlink" title="telegram bot"></a>telegram bot</h1><ul><li>21:35:03   telegram bot is over</li><li>21:38:22   还没有吃饭，准备吃饭，一天都没怎么吃，准备去沙县</li><li>22:14:10   沙县，一份拌面，一份蒸饺，一个卤蛋，14元，一瓶矿泉水，1元</li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日常记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 日常记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>20191031</title>
+      <link href="/2019/10/record/2019-10-32/"/>
+      <url>/2019/10/record/2019-10-32/</url>
+      
+        <content type="html"><![CDATA[<h1 id="还有50天"><a href="#还有50天" class="headerlink" title="还有50天"></a>还有50天</h1><ul><li>20:17:17:    想要学习，是想要<br></li><li>21:01:19:    还可以吗<br></li><li>22:15:58:    跑完步，晚上没吃，有些饿，来到熟悉的沙县小吃，一份蒸饺，一份油葱拌面，知足～<br></li><li>22:31:24:    补。跑步，4.87公里，半走半跑。听着雅虎和谷歌的企业历史，颇有感慨，谷歌的不作恶，只要天才。雅虎的互联网商业规则的缔造者，免费，靠广告收入，也就是流量。大佬的眼光独到，确实过人之处。怎么才能成为像他们这种有才能的人呢？懒散，拖延这样的你是肯定不行的。不要自我怀疑，临阵退缩，要相信 可以的！<br></li><li>09:52:36:    想要认真学习专业课<br></li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 行为记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 行为记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>linux进程命令</title>
+      <link href="/2019/10/linux-jin-cheng-ming-ling/"/>
+      <url>/2019/10/linux-jin-cheng-ming-ling/</url>
+      
+        <content type="html"><![CDATA[<h1 id="linux进程命令"><a href="#linux进程命令" class="headerlink" title="linux进程命令"></a>linux进程命令</h1><hr><p>  个人需求：服务器上运行着脚本程序，每次SSH连接上想查看下脚本程序是否还在运行或是想停止脚本的运行。<br></p><h2 id="常用的查进程"><a href="#常用的查进程" class="headerlink" title="常用的查进程"></a>常用的查进程</h2><ul><li>ps aux|grep “xxx”<br><br>xxx为要查询的进程名称关键字，例如要查询一个main程序的后台运行，命令为 ps aux|grep “main”</li><li>jobs<br><br>查看当前有多少在后台运行的命令<br></li></ul><h2 id="常用的结束进程"><a href="#常用的结束进程" class="headerlink" title="常用的结束进程"></a>常用的结束进程</h2><ul><li>pkill -9 name</li><li>killall name</li><li>kill pid</li></ul><h2 id="后台运行"><a href="#后台运行" class="headerlink" title="后台运行"></a>后台运行</h2><ul><li>command &amp; <br><br>后台运行，你关掉终端会停止运行</li><li>nohup command &amp; <br><br>后台运行，你关掉终端也会继续运行</li></ul><h2 id="前后台进程切换"><a href="#前后台进程切换" class="headerlink" title="前后台进程切换"></a>前后台进程切换</h2><p>  如果你发现前台运行的一个程序需要很长的时间，但是需要干其他的事情，就可以用 Ctrl-Z ，挂起这个程序，然后可以看到系统提示:</p><blockquote><p>[1]+ Stopped /root/bin/main.sh <br></p></blockquote><ul><li>bg 1 <br><br>将任务放到后台中去处理（bg 后面的数字为作业号）</li><li>fg 1 <br><br>将后台的任务拿到前台来处理</li></ul><h2 id="查进程字段含义"><a href="#查进程字段含义" class="headerlink" title="查进程字段含义"></a>查进程字段含义</h2><ul><li>USER           进程所有者</li><li>PID       进程ID</li><li>PPID      父进程</li><li>%CPU           CPU占用率</li><li>%MEM           内存占用率</li><li>VSZ    进程虚拟大小</li><li>RSS    页面文件占用</li><li>TTY     终端ID</li><li>NI       进程优先级。数值越大，占用CPU时间越少</li><li>STAT     进程状态 <br><br>D    不可中断<br><br>R       正在运行，或在队列中的进程<br><br>S       处于休眠状态<br><br>T       停止或被追踪<br><br>Z       僵尸进程<br><br>W      进入内存交换（从内核2.6开始无效）<br><br>X       死掉的进程<br><br><br>&lt;       高优先级<br><br>N       低优先级<br><br>L       有些页被锁进内存<br><br>s       包含子进程<br></li></ul><ul><li>   位于后台的进程组；<br><br>l        多线程，克隆线程 <br></li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>20191030</title>
+      <link href="/2019/10/record/2019-10-31/"/>
+      <url>/2019/10/record/2019-10-31/</url>
+      
+        <content type="html"><![CDATA[<h1 id="要自律"><a href="#要自律" class="headerlink" title="要自律"></a>要自律</h1><ul><li>11:05:15:    后台运行程序不知为何断开了，重新开始记录，凌晨5点睡觉，上午9点半醒来，玩手机到11点。你知道你自己在做什么吗？你的时间不感觉浪费吗？别人都在奋斗，你在干吗？还不自醒吗！<br></li><li>12:05:58:    还没有起床，都中午12点了，不吃饭，不学习，就在床上玩手机！想要起床！想要学习！<br></li><li>12:56:59:    中午吃饭，一块鸡胸，三片生菜叶，四瓣蒜，一袋牛奶加燕麦，三个核桃。<br></li><li>15:21:49:    吃完饭后，我居然一点都没有学习，玩电脑，弄哪个苹果CMS视频网站到现在，真要疯了吗？<br></li><li>17:10:14:    搞了苹果CMS一下午，点网址怎么就变成了下载文件？烦心，到底再搞什么！<br></li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 行为记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 行为记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>20191031</title>
+      <link href="/2019/10/record/2019-10-33/"/>
+      <url>/2019/10/record/2019-10-33/</url>
+      
+        <content type="html"><![CDATA[<h1 id="安静学习"><a href="#安静学习" class="headerlink" title="安静学习"></a>安静学习</h1><ul><li>05:59:12:    熬夜一宿，现在才睡觉。<br></li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 行为记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 行为记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>20191030</title>
+      <link href="/2019/10/record/2019-10-30/"/>
+      <url>/2019/10/record/2019-10-30/</url>
+      
+        <content type="html"><![CDATA[<h1 id="开始了"><a href="#开始了" class="headerlink" title="开始了"></a>开始了</h1><ul><li>04:04:06:    终于把博客弄的差不多了<br></li><li>05:09:40:    玩手机三国杀，为什么不去睡觉呢？要有自制力！睡觉！<br></li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 行为记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 行为记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>record/2019-11-14</title>
+      <link href="/1970/01/record/2019-11-14/"/>
+      <url>/1970/01/record/2019-11-14/</url>
+      
+        <content type="html"><![CDATA[<script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>record/2019-11-27</title>
+      <link href="/1970/01/record/2019-11-27/"/>
+      <url>/1970/01/record/2019-11-27/</url>
+      
+        <content type="html"><![CDATA[<script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2019/11/嵌入式论坛集合</title>
+      <link href="/1970/01/2019/11/qian-ru-shi-lun-tan-ji-he/"/>
+      <url>/1970/01/2019/11/qian-ru-shi-lun-tan-ji-he/</url>
+      
+        <content type="html"><![CDATA[<p>layout: post<br>title: 嵌入式论坛集合<br>date: ‘2019   11   11 12:01’<br>summary: 嵌入式论坛集合<br>top: true<br>toc: true<br>categories:</p><ul><li>工程与应用科学<br>tags:</li><li>计算机</li><li>法</li></ul><h1 id="嵌入式论坛集合"><a href="#嵌入式论坛集合" class="headerlink" title="嵌入式论坛集合"></a>嵌入式论坛集合</h1><h2 id="媒体论坛"><a href="#媒体论坛" class="headerlink" title="媒体论坛"></a>媒体论坛</h2><p><a href="https://www.amobbs.com/" target="_blank" rel="noopener">阿莫电子论坛</a>   人气最旺的电子论坛。<br><a href="http://bbs.21ic.com/" target="_blank" rel="noopener">21ic电子技术论坛</a>     广大电子工程师学习、发展的理想园地。<br><a href="http://bbs.elecfans.com/" target="_blank" rel="noopener">电子发烧友论坛</a>     业内最受欢迎的电子发烧友电子工程师互动交流平台。<br><a href="http://bbs.eetop.cn/" target="_blank" rel="noopener">顶级开发网论坛EETOP</a>     国内顶级电子论坛，最活跃的电子工程师交流社区。<br><a href="http://www.eechina.com/" target="_blank" rel="noopener">电子工程网EEChina</a>     电子工程师获取电子设计应用技术的专业网站。<br><a href="http://forum.eepw.com.cn/" target="_blank" rel="noopener">电子产品世界论坛EEPW</a>     提供探讨最热门的嵌入式互动社区。<br><a href="http://bbs.eeworld.com.cn/" target="_blank" rel="noopener">电子工程世界论坛EEWorld</a>     中国人自己的电子工程师交流社区。</p><h2 id="企业论坛"><a href="#企业论坛" class="headerlink" title="企业论坛"></a>企业论坛</h2><p><a href="http://bbs.witech.com.cn/" target="_blank" rel="noopener">嵌入式学习论坛</a>     保定飞凌嵌入式技术有限公司论坛<br><a href="http://www.arm9home.net/" target="_blank" rel="noopener">ARM9之家论坛</a>     广州友善之臂计算机科技有限公司论坛。<br><a href="http://www.armbbs.net/" target="_blank" rel="noopener">天嵌科技ARM开发社</a>     广州天嵌计算机科技有限公司论坛。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>

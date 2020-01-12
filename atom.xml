@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Apollo</title>
+  
+  <subtitle>Hello</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://cfzhous.com/"/>
+  <updated>2020-01-12T20:06:49.000Z</updated>
+  <id>https://cfzhous.com/</id>
+  
+  <author>
+    <name>cfzhous</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20191126</title>
+    <link href="https://cfzhous.com/2019/11/record/2019-11-26/"/>
+    <id>https://cfzhous.com/2019/11/record/2019-11-26/</id>
+    <published>2019-11-26T20:36:10.000Z</published>
+    <updated>2020-01-12T20:06:49.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;记录&quot;&gt;&lt;a href=&quot;#记录&quot; class=&quot;headerlink&quot; title=&quot;记录&quot;&gt;&lt;/a&gt;记录&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;20:36:34   做个计划&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script&gt;
+       
+        
+      
+    
+    </summary>
+    
+    
+      <category term="日常记录" scheme="https://cfzhous.com/categories/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="日常记录" scheme="https://cfzhous.com/tags/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20191113</title>
+    <link href="https://cfzhous.com/2019/11/record/2019-11-13/"/>
+    <id>https://cfzhous.com/2019/11/record/2019-11-13/</id>
+    <published>2019-11-13T12:49:26.000Z</published>
+    <updated>2020-01-12T20:06:49.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;一天都是我的&quot;&gt;&lt;a href=&quot;#一天都是我的&quot; class=&quot;headerlink&quot; title=&quot;一天都是我的&quot;&gt;&lt;/a&gt;一天都是我的&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;12:49:44   早睡早起，一整天都是自己的&lt;/li&gt;
+&lt;li&gt;20:54:59  
+        
+      
+    
+    </summary>
+    
+    
+      <category term="日常记录" scheme="https://cfzhous.com/categories/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="日常记录" scheme="https://cfzhous.com/tags/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>有趣的网站</title>
+    <link href="https://cfzhous.com/2019/11/2019/11/ge-ren-wang-zhan/"/>
+    <id>https://cfzhous.com/2019/11/2019/11/ge-ren-wang-zhan/</id>
+    <published>2019-11-11T12:01:00.000Z</published>
+    <updated>2020-01-12T20:06:49.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;有趣的网站&quot;&gt;&lt;a href=&quot;#有趣的网站&quot; class=&quot;headerlink&quot; title=&quot;有趣的网站&quot;&gt;&lt;/a&gt;有趣的网站&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://cfzhous.blogspot.com/&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="工程与应用科学" scheme="https://cfzhous.com/categories/%E5%B7%A5%E7%A8%8B%E4%B8%8E%E5%BA%94%E7%94%A8%E7%A7%91%E5%AD%A6/"/>
+    
+    
+      <category term="计算机" scheme="https://cfzhous.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+      <category term="杂" scheme="https://cfzhous.com/tags/%E6%9D%82/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>协作开发工具</title>
+    <link href="https://cfzhous.com/2019/11/2019/11/xie-zuo-kai-fa-gong-ju/"/>
+    <id>https://cfzhous.com/2019/11/2019/11/xie-zuo-kai-fa-gong-ju/</id>
+    <published>2019-11-11T12:01:00.000Z</published>
+    <updated>2020-01-12T20:06:49.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;协作开发工具&quot;&gt;&lt;a href=&quot;#协作开发工具&quot; class=&quot;headerlink&quot; title=&quot;协作开发工具&quot;&gt;&lt;/a&gt;协作开发工具&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://www.leangoo.com/&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="工程与应用科学" scheme="https://cfzhous.com/categories/%E5%B7%A5%E7%A8%8B%E4%B8%8E%E5%BA%94%E7%94%A8%E7%A7%91%E5%AD%A6/"/>
+    
+    
+      <category term="计算机" scheme="https://cfzhous.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+      <category term="器" scheme="https://cfzhous.com/tags/%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>建站工具</title>
+    <link href="https://cfzhous.com/2019/11/2019/11/jian-zhan-gong-ju/"/>
+    <id>https://cfzhous.com/2019/11/2019/11/jian-zhan-gong-ju/</id>
+    <published>2019-11-11T12:01:00.000Z</published>
+    <updated>2020-01-12T20:06:49.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;建站工具&quot;&gt;&lt;a href=&quot;#建站工具&quot; class=&quot;headerlink&quot; title=&quot;建站工具&quot;&gt;&lt;/a&gt;建站工具&lt;/h1&gt;&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="工程与应用科学" scheme="https://cfzhous.com/categories/%E5%B7%A5%E7%A8%8B%E4%B8%8E%E5%BA%94%E7%94%A8%E7%A7%91%E5%AD%A6/"/>
+    
+    
+      <category term="计算机" scheme="https://cfzhous.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+      <category term="法" scheme="https://cfzhous.com/tags/%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>技术教程</title>
+    <link href="https://cfzhous.com/2019/11/2019/11/ji-zhu-jiao-cheng/"/>
+    <id>https://cfzhous.com/2019/11/2019/11/ji-zhu-jiao-cheng/</id>
+    <published>2019-11-11T12:01:00.000Z</published>
+    <updated>2020-01-12T20:06:49.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;技术教程&quot;&gt;&lt;a href=&quot;#技术教程&quot; class=&quot;headerlink&quot; title=&quot;技术教程&quot;&gt;&lt;/a&gt;技术教程&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://darylliu.github.io/archives/6a1f6623.html&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="工程与应用科学" scheme="https://cfzhous.com/categories/%E5%B7%A5%E7%A8%8B%E4%B8%8E%E5%BA%94%E7%94%A8%E7%A7%91%E5%AD%A6/"/>
+    
+    
+      <category term="计算机" scheme="https://cfzhous.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+      <category term="法" scheme="https://cfzhous.com/tags/%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>有趣的网站</title>
+    <link href="https://cfzhous.com/2019/11/2019/11/you-qu-de-wang-zhan/"/>
+    <id>https://cfzhous.com/2019/11/2019/11/you-qu-de-wang-zhan/</id>
+    <published>2019-11-11T12:01:00.000Z</published>
+    <updated>2020-01-12T20:06:49.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;有趣的网站&quot;&gt;&lt;a href=&quot;#有趣的网站&quot; class=&quot;headerlink&quot; title=&quot;有趣的网站&quot;&gt;&lt;/a&gt;有趣的网站&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://stackexchange.com/&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="资源" scheme="https://cfzhous.com/categories/%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="网站" scheme="https://cfzhous.com/tags/%E7%BD%91%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20191111</title>
+    <link href="https://cfzhous.com/2019/11/record/2019-11-11/"/>
+    <id>https://cfzhous.com/2019/11/record/2019-11-11/</id>
+    <published>2019-11-11T10:55:08.000Z</published>
+    <updated>2020-01-12T20:06:49.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;调试&quot;&gt;&lt;a href=&quot;#调试&quot; class=&quot;headerlink&quot; title=&quot;调试&quot;&gt;&lt;/a&gt;调试&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;10:55:22   可以用了吗?root      9803  0.5  1.9 280060 19720 pts/0   
+        
+      
+    
+    </summary>
+    
+    
+      <category term="日常记录" scheme="https://cfzhous.com/categories/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="日常记录" scheme="https://cfzhous.com/tags/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在线学习网站汇总</title>
+    <link href="https://cfzhous.com/2019/11/2019/11/xue-xi-wang-zhan-hui-zong/"/>
+    <id>https://cfzhous.com/2019/11/2019/11/xue-xi-wang-zhan-hui-zong/</id>
+    <published>2019-11-10T14:42:00.000Z</published>
+    <updated>2020-01-12T20:06:49.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;关于学习进步的网站&quot;&gt;&lt;a href=&quot;#关于学习进步的网站&quot; class=&quot;headerlink&quot; title=&quot;关于学习进步的网站&quot;&gt;&lt;/a&gt;关于学习进步的网站&lt;/h1&gt;&lt;h1 id=&quot;技术论坛&quot;&gt;&lt;a href=&quot;#技术论坛&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="资源" scheme="https://cfzhous.com/categories/%E8%B5%84%E6%BA%90/"/>
+    
+      <category term="学习网站" scheme="https://cfzhous.com/categories/%E8%B5%84%E6%BA%90/%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99/"/>
+    
+    
+      <category term="学习网站" scheme="https://cfzhous.com/tags/%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>免费在线影视网站</title>
+    <link href="https://cfzhous.com/2019/11/2019/11/mian-fei-zai-xian-ying-shi-wang-zhan/"/>
+    <id>https://cfzhous.com/2019/11/2019/11/mian-fei-zai-xian-ying-shi-wang-zhan/</id>
+    <published>2019-11-10T12:01:00.000Z</published>
+    <updated>2020-01-12T20:06:49.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;免费在线影视网站&quot;&gt;&lt;a href=&quot;#免费在线影视网站&quot; class=&quot;headerlink&quot; title=&quot;免费在线影视网站&quot;&gt;&lt;/a&gt;免费在线影视网站&lt;/h1&gt;&lt;h2 id=&quot;个人推荐&quot;&gt;&lt;a href=&quot;#个人推荐&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="资源" scheme="https://cfzhous.com/categories/%E8%B5%84%E6%BA%90/"/>
+    
+      <category term="影视" scheme="https://cfzhous.com/categories/%E8%B5%84%E6%BA%90/%E5%BD%B1%E8%A7%86/"/>
+    
+    
+      <category term="在线影视" scheme="https://cfzhous.com/tags/%E5%9C%A8%E7%BA%BF%E5%BD%B1%E8%A7%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20191109</title>
+    <link href="https://cfzhous.com/2019/11/record/2019-11-09/"/>
+    <id>https://cfzhous.com/2019/11/record/2019-11-09/</id>
+    <published>2019-11-09T15:09:16.000Z</published>
+    <updated>2020-01-12T20:06:49.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;我想要学习&quot;&gt;&lt;a href=&quot;#我想要学习&quot; class=&quot;headerlink&quot; title=&quot;我想要学习&quot;&gt;&lt;/a&gt;我想要学习&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;15:09:33   充分利用我想要的力量&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script&gt;
+       
+        
+      
+    
+    </summary>
+    
+    
+      <category term="日常记录" scheme="https://cfzhous.com/categories/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="日常记录" scheme="https://cfzhous.com/tags/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20191107</title>
+    <link href="https://cfzhous.com/2019/11/record/2019-11-07/"/>
+    <id>https://cfzhous.com/2019/11/record/2019-11-07/</id>
+    <published>2019-11-07T21:34:55.000Z</published>
+    <updated>2020-01-12T20:06:49.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;telegram-bot&quot;&gt;&lt;a href=&quot;#telegram-bot&quot; class=&quot;headerlink&quot; title=&quot;telegram bot&quot;&gt;&lt;/a&gt;telegram bot&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;21:35:03   telegram bot
+        
+      
+    
+    </summary>
+    
+    
+      <category term="日常记录" scheme="https://cfzhous.com/categories/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="日常记录" scheme="https://cfzhous.com/tags/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20191031</title>
+    <link href="https://cfzhous.com/2019/10/record/2019-10-32/"/>
+    <id>https://cfzhous.com/2019/10/record/2019-10-32/</id>
+    <published>2019-10-31T20:17:17.000Z</published>
+    <updated>2020-01-12T20:06:49.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;还有50天&quot;&gt;&lt;a href=&quot;#还有50天&quot; class=&quot;headerlink&quot; title=&quot;还有50天&quot;&gt;&lt;/a&gt;还有50天&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;20:17:17:    想要学习，是想要&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;21:01:19:   
+        
+      
+    
+    </summary>
+    
+    
+      <category term="行为记录" scheme="https://cfzhous.com/categories/%E8%A1%8C%E4%B8%BA%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="行为记录" scheme="https://cfzhous.com/tags/%E8%A1%8C%E4%B8%BA%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux进程命令</title>
+    <link href="https://cfzhous.com/2019/10/linux-jin-cheng-ming-ling/"/>
+    <id>https://cfzhous.com/2019/10/linux-jin-cheng-ming-ling/</id>
+    <published>2019-10-31T17:42:12.000Z</published>
+    <updated>2020-01-12T20:06:49.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;linux进程命令&quot;&gt;&lt;a href=&quot;#linux进程命令&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="学习笔记" scheme="https://cfzhous.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="linux" scheme="https://cfzhous.com/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20191030</title>
+    <link href="https://cfzhous.com/2019/10/record/2019-10-31/"/>
+    <id>https://cfzhous.com/2019/10/record/2019-10-31/</id>
+    <published>2019-10-31T11:05:15.000Z</published>
+    <updated>2020-01-12T20:06:49.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;要自律&quot;&gt;&lt;a href=&quot;#要自律&quot; class=&quot;headerlink&quot; title=&quot;要自律&quot;&gt;&lt;/a&gt;要自律&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;11:05:15:   
+        
+      
+    
+    </summary>
+    
+    
+      <category term="行为记录" scheme="https://cfzhous.com/categories/%E8%A1%8C%E4%B8%BA%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="行为记录" scheme="https://cfzhous.com/tags/%E8%A1%8C%E4%B8%BA%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20191031</title>
+    <link href="https://cfzhous.com/2019/10/record/2019-10-33/"/>
+    <id>https://cfzhous.com/2019/10/record/2019-10-33/</id>
+    <published>2019-10-31T05:59:12.000Z</published>
+    <updated>2020-01-12T20:06:49.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;安静学习&quot;&gt;&lt;a href=&quot;#安静学习&quot; class=&quot;headerlink&quot; title=&quot;安静学习&quot;&gt;&lt;/a&gt;安静学习&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;05:59:12:    熬夜一宿，现在才睡觉。&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script&gt;
+      
+        
+      
+    
+    </summary>
+    
+    
+      <category term="行为记录" scheme="https://cfzhous.com/categories/%E8%A1%8C%E4%B8%BA%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="行为记录" scheme="https://cfzhous.com/tags/%E8%A1%8C%E4%B8%BA%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20191030</title>
+    <link href="https://cfzhous.com/2019/10/record/2019-10-30/"/>
+    <id>https://cfzhous.com/2019/10/record/2019-10-30/</id>
+    <published>2019-10-30T04:04:06.000Z</published>
+    <updated>2020-01-12T20:06:49.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;开始了&quot;&gt;&lt;a href=&quot;#开始了&quot; class=&quot;headerlink&quot; title=&quot;开始了&quot;&gt;&lt;/a&gt;开始了&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;04:04:06:    终于把博客弄的差不多了&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;05:09:40:   
+        
+      
+    
+    </summary>
+    
+    
+      <category term="行为记录" scheme="https://cfzhous.com/categories/%E8%A1%8C%E4%B8%BA%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="行为记录" scheme="https://cfzhous.com/tags/%E8%A1%8C%E4%B8%BA%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>record/2019-11-14</title>
+    <link href="https://cfzhous.com/1970/01/record/2019-11-14/"/>
+    <id>https://cfzhous.com/1970/01/record/2019-11-14/</id>
+    <published>1970-01-01T00:00:00.000Z</published>
+    <updated>2020-01-12T20:06:49.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>record/2019-11-27</title>
+    <link href="https://cfzhous.com/1970/01/record/2019-11-27/"/>
+    <id>https://cfzhous.com/1970/01/record/2019-11-27/</id>
+    <published>1970-01-01T00:00:00.000Z</published>
+    <updated>2020-01-12T20:06:49.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2019/11/嵌入式论坛集合</title>
+    <link href="https://cfzhous.com/1970/01/2019/11/qian-ru-shi-lun-tan-ji-he/"/>
+    <id>https://cfzhous.com/1970/01/2019/11/qian-ru-shi-lun-tan-ji-he/</id>
+    <published>1970-01-01T00:00:00.000Z</published>
+    <updated>2020-01-12T20:06:49.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;layout: post&lt;br&gt;title: 嵌入式论坛集合&lt;br&gt;date: ‘2019   11   11 12:01’&lt;br&gt;summary: 嵌入式论坛集合&lt;br&gt;top: true&lt;br&gt;toc:
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
